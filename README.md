@@ -36,10 +36,6 @@ Favorite Band: "Killing Me Inside, Rocket Rockers, Alone At Last, 510, Pe Wee Ga
 
 ```
 
----
-<sup>Don't expect too much from me</sup> <img src="https://www.animatedimages.org/data/media/2113/animated-3d-smiley-image-0011.gif" width="30">
----
-
 <p align="center"> 
   <samp>
     <b>「 Contact Me 」</b>
@@ -50,3 +46,7 @@ Favorite Band: "Killing Me Inside, Rocket Rockers, Alone At Last, 510, Pe Wee Ga
 </p><h2 align="center">Thank You for Visiting! 🙌</h2><p align="center">
   <img src="https://i.imgur.com/BANPcfd.jpeg" width="300" alt="Thank You">
 </p>
+
+---
+
+<sup>Don't expect too much from me</sup> <img src="https://www.animatedimages.org/data/media/2113/animated-3d-smiley-image-0011.gif" width="30">
