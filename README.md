@@ -32,10 +32,12 @@ Gender: "😳"
 Status: "Student"
 Hobby: "🔍 Currently on the lookout for the perfect hobby!"
 Nickname (Sapaan/Panggilan): "Woi Kontol"
-Favorite Band: "Rumahsakit, D'Masiv, Rocket Rockers, Starducc, Semut Merah, Pee Wee Gaskins, Anarcute, Superiots, Threesxity"
+Favorite Band: "Killing Me Inside, Rocket Rockers, Alone At Last, 510, Pe Wee Gaskins, Anarcute, Last Kiss From Avelin, Stereo Wall, Threesixty, Slap It Out, D'MASIV, The Kick, Superiots"
 
 ```
 
+---
+<sup>Don't expect too much from me</sup> <img src="https://www.animatedimages.org/data/media/2113/animated-3d-smiley-image-0011.gif" width="30">
 ---
 
 <p align="center"> 
