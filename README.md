@@ -32,7 +32,7 @@ Gender: "😳"
 Status: "Student"
 Hobby: "🔍 Currently on the lookout for the perfect hobby!"
 Nickname (Sapaan/Panggilan): "Woi Kontol"
-Favorite Band: "Killing Me Inside, Rocket Rockers, Alone At Last, 510, Pe Wee Gaskins, Anarcute, Last Kiss From Avelin, Stereo Wall, Threesixty, Slap It Out, D'MASIV, The Kick, Superiots"
+Favorite Band: "Killing Me Inside, Saosin, Divide, Alone At Last, Alesana, Agapeea, Sleeping With Sirens, Slipknot"
 
 ```
 
