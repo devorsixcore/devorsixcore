@@ -31,8 +31,8 @@ Age: "1️⃣0️⃣ - 1️⃣0️⃣ = ❔"
 Gender: "😳"
 Status: "Student"
 Hobby: "🔍 Currently on the lookout for the perfect hobby!"
-Nickname (Sapaan/Panggilan): "Woi Kontol"
-Favorite Band: "Killing Me Inside, Saosin, Divide, Alone At Last, Alesana, Agapeea, Sleeping With Sirens, Slipknot"
+Name (Sapaan/Panggilan): "Woi Kontol"
+Favorite Band: "Killing Me Inside, Saosin, Chiodos, Alone At Last, Alesana, Agapeea, Sleeping With Sirens, Slipknot, Silverstein, BMTH, 5 Sec Of Summer"
 
 ```
 
